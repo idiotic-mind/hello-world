@@ -3,3 +3,4 @@ Servlet + JSP
 Maven
 Hibernate
 Spring
+Rest API
