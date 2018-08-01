@@ -1,3 +1,5 @@
 Core Java
 Servlet + JSP
 Maven
+Hibernate
+Spring
