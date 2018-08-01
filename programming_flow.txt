@@ -2,4 +2,6 @@ Core Java
 Servlet + JSP
 Maven
 Hibernate
+Design patterns
 Spring
+Spring Framework
