@@ -1,1 +1,4 @@
-Basic learning sequences
+
+Some basic learning sequences
+
+
